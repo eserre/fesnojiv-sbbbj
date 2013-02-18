@@ -1,0 +1,56 @@
+img {
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+}
+
+.huge {
+  font-size: 8em;
+}
+
+.big {
+  font-size: 6em;
+}
+
+.large {
+  font-size: 4em;
+}
+
+.medium {
+  font-size: 2em;
+}
+
+.teen {
+  font-size: 1.66em;
+}
+
+.regular {
+  font-size: 1em;
+}
+
+#front-page {
+  text-align: center;
+}
+
+blockquote {
+  padding: 1.33em;
+  background: #c1c1c1;
+  border-radius: 1em;
+  margin-bottom: 0.66em;
+}
+
+.half.left { 
+  width: 45%;
+  float: left;
+}
+.half.right {
+  width: 45%;
+  float: right;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.center { text-align: center; }
