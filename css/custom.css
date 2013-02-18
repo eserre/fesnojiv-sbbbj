@@ -54,3 +54,15 @@ h1 {
 }
 
 .center { text-align: center; }
+
+#swap-lang {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 1em;
+  pointer-events: auto;
+}
+
+#swap-lang a {
+  padding: 1em;
+}
